@@ -64,6 +64,11 @@ You can adjust the parameters such as minimum contour area, contour filtering, a
 - Enhance the measurement accuracy by calibrating the camera.
 - Implement a graphical user interface (GUI) for easier parameter adjustment.
 
+## Demo Video
+Watch the demo video to see the project in action:
+
+[Demo Video](https://youtu.be/91W2t5l3FEs)
+
 ## Contact
 
 For any inquiries or further information, feel free to contact me via:
